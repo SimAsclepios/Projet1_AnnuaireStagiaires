@@ -1,8 +1,6 @@
-Projet1_AnnuaireStagiaires
+Projet 1 - Annuaire de Stagiaires - Client Lourd : 
 
 Période I : Septembre 2020
-
-Projet 1 - Client Lourd : 
 
 Réalisation d'un annuaire d'enregistrement des stagiaires 
 pour un centre de formation avec l'utilisation d'un arbre binaire de recherche :
